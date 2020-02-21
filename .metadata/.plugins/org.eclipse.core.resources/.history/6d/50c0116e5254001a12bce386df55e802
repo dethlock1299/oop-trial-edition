@@ -5,8 +5,6 @@ import java.util.ArrayList;
 import java.util.*;
 
 public class Arraylist {
-	
-	//commit toaster bath
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
